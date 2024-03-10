@@ -1,0 +1,15 @@
+INSERT INTO DBAD03.CONTACTS (
+    LANG,
+    SURNAME,
+    FIRST_NAME,
+    MIDDLE_NAME,
+    ADDL_NAME,
+    EMAIL_ADDR
+) VALUES (
+    'EN',
+    'MAYERS',
+    'CHERYL',
+    'ANN',
+    NULL,
+    'CMAYERS@NOWHERE.COM'
+);
